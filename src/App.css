@@ -1,0 +1,24 @@
+.app {
+  display: block;
+  margin: 3rem 20rem;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.questions-container {
+  border: 1px solid purple;
+  border-radius: 4px;
+  background-color: purple;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  min-height: fit-content;
+}
+
+@media (min-width: 500px) {
+  .app {
+    margin: 3rem 2rem;
+  }
+}
