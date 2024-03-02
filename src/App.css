@@ -17,8 +17,8 @@
   min-height: fit-content;
 }
 
-@media (min-width: 500px) {
+@media screen and (min-width: 350px) {
   .app {
-    margin: 3rem 2rem;
+    margin: 3rem 15rem;
   }
 }
